@@ -1,4 +1,12 @@
 # Intro to Testing Lecture
+## Topics
+- Where have we seen the tests before. Look at an example.
+- How tests are part of the industry. Jobs and job interviews.
+- Automated tests: unit vs integration. Not 'Test Automation'.
+- BDD/TDD
+- Today server-side only: node modules and routes
+
+## Tools
 
 Chai API/Docs: [http://chaijs.com/api/](http://chaijs.com/api/)
 
