@@ -33,3 +33,4 @@ $: npm test
 - [http://bendetat.com/karma-and-mocha-for-angular-testing.html](http://bendetat.com/karma-and-mocha-for-angular-testing.html)
 - [https://docs.angularjs.org/guide/unit-testing](https://docs.angularjs.org/guide/unit-testing)
 - [http://webdriver.io/](http://webdriver.io/)
+- [https://karma-runner.github.io/1.0/index.html](https://karma-runner.github.io/1.0/index.html)
